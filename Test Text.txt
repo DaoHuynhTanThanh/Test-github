@@ -1,0 +1,1 @@
+Test add information into file through GIT
